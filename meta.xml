@@ -1,7 +1,5 @@
 <meta>
 	<info author = "Text" />
-	<script src = "1_s.lua" />
-	<script src = "2_s.lua" />
-	<script type = "client" src = "2_c.lua" cache = "false" />
-	<file src="logo.png" /> 
+	<script src = "main_s.lua" />
+	<script type = "client" src = "main_c.lua" cache = "false" /> 
 </meta>
